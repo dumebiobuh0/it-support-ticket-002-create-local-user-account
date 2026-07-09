@@ -58,6 +58,8 @@ Creating and managing local user accounts is one of the most common responsibili
 
 ![Remote Desktop Users After](remote-desktop-users-after.png)
 
+
+
 ## 🎥 Video Demonstration
 
 Watch the complete video walkthrough on YouTube:
