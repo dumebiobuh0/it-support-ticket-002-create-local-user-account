@@ -40,24 +40,23 @@ Creating and managing local user accounts is one of the most common responsibili
 
 ### 1. Existing Local Users
 
-![Existing Local Users](existing-users-before-creation.png)
+![Existing Local Users](existing-local-users.png)
 
-### 2. New User Creation Window
+### 2. New User Creation
 
-![New User Creation](new-user-creation-window.png)
+![New User Creation](new-user-creation.png)
 
 ### 3. User Successfully Created
 
-![User Created](new-user-created.png)
+![User Successfully Created](new-user-created.png)
 
-### 4. Remote Desktop Users Group (Before)
+### 4. Remote Desktop Users (Before)
 
 ![Remote Desktop Users Before](remote-desktop-users-before.png)
 
-### 5. User Added to Remote Desktop Users
+### 5. Remote Desktop Users (After)
 
-![Remote Desktop Users After](remote-desktop-users-member-added.png)
-
+![Remote Desktop Users After](remote-desktop-users-after.png)
 
 ## 🎥 Video Demonstration
 
